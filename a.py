@@ -12,7 +12,6 @@ names = []
 
 with open('links.txt', 'r', encoding="utf-8") as mn:
     for i in mn.readlines():
-        print(i)
         lnk, name = map(str, i.split())
         url.append(lnk)
         names.append(name)
