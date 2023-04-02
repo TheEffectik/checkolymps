@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/rosatom/winners" />
+<link rel="shortlink" href="/node/20" />
+<link rel="shortcut icon" href="https://olymp.mephi.ru/content/public/favion.ico" type="image/vnd.microsoft.icon" />
+  <title>Списки победителей и призеров | olymp.mephi.ru</title>
+  <style>
+	@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,300i,400,400i,500,500i,700');
+  </style>
+  <style type="text/css" media="all">
+@import url("https://olymp.mephi.ru/modules/system/system.base.css?rko0ei");
+@import url("https://olymp.mephi.ru/modules/system/system.menus.css?rko0ei");
+@import url("https://olymp.mephi.ru/modules/system/system.messages.css?rko0ei");
+@import url("https://olymp.mephi.ru/modules/system/system.theme.css?rko0ei");
+</style>
+<style type="text/css" media="all">
+@import url("https://olymp.mephi.ru/sites/all/modules/calendar/css/calendar_multiday.css?rko0ei");
+@import url("https://olymp.mephi.ru/modules/field/theme/field.css?rko0ei");
+@import url("https://olymp.mephi.ru/sites/all/modules/geofield_ymap/geofield_ymap.css?rko0ei");
+@import url("https://olymp.mephi.ru/modules/node/node.css?rko0ei");
+@import url("https://olymp.mephi.ru/modules/search/search.css?rko0ei");
+@import url("https://olymp.mephi.ru/modules/user/user.css?rko0ei");
+@import url("https://olymp.mephi.ru/sites/all/modules/views/css/views.css?rko0ei");
+@import url("https://olymp.mephi.ru/sites/all/modules/back_to_top/css/back_to_top.css?rko0ei");
+@import url("https://olymp.mephi.ru/sites/all/modules/ckeditor/css/ckeditor.css?rko0ei");
+</style>
+<style type="text/css" media="all">
+@import url("https://olymp.mephi.ru/sites/all/modules/colorbox/styles/default/colorbox_style.css?rko0ei");
+@import url("https://olymp.mephi.ru/sites/all/modules/ctools/css/ctools.css?rko0ei");
+</style>
+<style type="text/css" media="all">
+@import url("https://olymp.mephi.ru/sites/all/themes/olymp/style.css?rko0ei");
+@import url("https://olymp.mephi.ru/sites/all/themes/olymp/special.css?rko0ei");
+@import url("https://olymp.mephi.ru/sites/all/themes/olymp/js/jquery.scrollbar/jquery.scrollbar.css?rko0ei");
+</style>
+
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="https://olymp.mephi.ru/sites/all/themes/olymp/style-ie8.css?rko0ei" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://olymp.mephi.ru/sites/all/themes/olymp/style-ie67.css?rko0ei" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://olymp.mephi.ru/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/misc/drupal.js?rko0ei"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.effect.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/sites/all/modules/back_to_top/js/back_to_top.js?rko0ei"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/content/public/languages/ru_d_o6CJTHGM0wkRFXxlE1TJXDjjsRYIhPMTt15cv29Tw.js?rko0ei"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/sites/all/libraries/colorbox/jquery.colorbox-min.js?rko0ei"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/sites/all/modules/colorbox/js/colorbox.js?rko0ei"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/sites/all/modules/colorbox/styles/default/colorbox_style.js?rko0ei"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/sites/all/themes/olymp/js/jquery.custom.js?rko0ei"></script>
+<script type="text/javascript" src="https://olymp.mephi.ru/sites/all/themes/olymp/js/jquery.scrollbar/jquery.scrollbar.js?rko0ei"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"olymp","theme_token":"SIaZ0Bs-x4E12ZEw1RFPL1r3zyCtgWm00aPgiJpMI1g","js":{"modules\/statistics\/statistics.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.effect.min.js":1,"sites\/all\/modules\/back_to_top\/js\/back_to_top.js":1,"public:\/\/languages\/ru_d_o6CJTHGM0wkRFXxlE1TJXDjjsRYIhPMTt15cv29Tw.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/themes\/olymp\/js\/jquery.custom.js":1,"sites\/all\/themes\/olymp\/js\/jquery.scrollbar\/jquery.scrollbar.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/geofield_ymap\/geofield_ymap.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/olymp\/style.css":1,"sites\/all\/themes\/olymp\/special.css":1,"sites\/all\/themes\/olymp\/js\/jquery.scrollbar\/jquery.scrollbar.css":1,"sites\/all\/themes\/olymp\/style-ie8.css":1,"sites\/all\/themes\/olymp\/style-ie67.css":1}},"colorbox":{"opacity":"0.85","current":"{current} \u0438\u0437 {total}","previous":"\u00ab \u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439","next":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u00bb","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/content\/public","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"better_exposed_filters":{"views":{"news":{"displays":{"main":{"filters":[]}}}}},"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"statistics":{"data":{"nid":"20"},"url":"\/modules\/statistics\/statistics.php"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-20 node-type-page" >
+    <div id="browserWarning">
+	<div class="links-block">
+		<div class="text">Ваш браузер безнадежно устарел, для работы с порталом его необходимо обновить или установить любой другой современный браузер.</div>
+		<div class="links"><a href="https://windows.microsoft.com/ru-RU/internet-explorer/download-ie" title="Microsoft Internet Explorer"><img src="/content/public/images/browsers/iexplorer.png" /></a><a href="https://www.mozilla.org/ru/" title="Mozilla Firefox"><img src="/content/public/images/browsers/firefox.png" /></a><a href="https://ru.opera.com/" title="Opera"><img src="/content/public/images/browsers/opera.png" /></a><a href="https://www.google.ru/chrome" title="Google Chrome"><img src="/content/public/images/browsers/chrome.png" /></a><a href="https://www.apple.com/ru/safari/" title="Apple Safari"><img src="/content/public/images/browsers/safari.png" /></a></div>
+	</div>
+</div>
+<div id="layout"  class="page rosatom">
+			<div id="top-menu">
+			  <div class="region region-top-menu">
+    <div id="block-menu-block-4" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-menu-menu-top parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-610"><a href="https://admission.mephi.ru/" title="">Приемная комиссия</a></li>
+<li class="leaf menu-mlid-611"><a href="/" title="">Портал олимпиад</a></li>
+<li class="last leaf menu-mlid-612"><a href="https://open.mephi.ru/" title="">Прием онлайн</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+		</div>
+		<div id="header-wrapper">
+		<div id="header">  <div class="region region-header">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <a href="/" title="На главную" class="home-link"><span class="site-title">Портал<br />олимпиад</span></a>
+  </div>
+</div>
+<div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <a href="https://org.mephi.ru/" target="_blank">Принять участие</a>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf active-trail menu-mlid-491"><a href="/scholars" class="active-trail">Для школьников</a></li>
+<li class="leaf menu-mlid-492"><a href="/students">Для студентов</a></li>
+<li class="expanded menu-mlid-464"><a href="/about">Об олимпиадах</a><ul class="menu"><li class="first leaf menu-mlid-466"><a href="https://admission.mephi.ru/admission/baccalaureate-and-specialty/specials/winners" title="">Особые права победителей и призеров для школьников</a></li>
+<li class="leaf menu-mlid-467"><a href="https://admission.mephi.ru/admission/magistracy/exams/bypass" title="">Особые права победителей и призеров для студентов</a></li>
+<li class="last leaf menu-mlid-468"><a href="http://rsr-olymp.ru/" title="">Перечень олимпиад РСОШ</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-465"><a href="/feedback">Обратная связь</a><ul class="menu"><li class="first leaf menu-mlid-469"><a href="/rosatom/faq">Часто задаваемые вопросы Росатом</a></li>
+<li class="last leaf menu-mlid-470"><a href="/feedback/contacts">Контакты</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+</div>
+	</div>
+				<div id="content">
+				<div id="current-location">
+			<div id="breadcrumbs"><a href="/">Главная</a> / <a href="/scholars">Для школьников</a> / <a href="/rosatom">Отраслевая физико-математическая олимпиада школьников «Росатом»</a> / Списки победителей и призеров</div>
+			<div id="page-title">Списки победителей и призеров</div>
+		</div>
+		<div id="main-content">
+																			<div id="submenu">  <div class="region region-submenu">
+    <div id="block-menu-block-2" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-491 menu-level-2">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-494"><a href="/rosatom/about">Об олимпиаде</a></li>
+<li class="leaf has-children menu-mlid-495"><a href="/rosatom/stages">Этапы олимпиады</a></li>
+<li class="last leaf has-children active-trail active menu-mlid-496"><a href="/rosatom/winners" class="active-trail active">Списки победителей и призеров</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+</div>
+						<div class="content-wrapper">
+								  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-20" class="node node-page clearfix" about="/rosatom/winners" typeof="foaf:Document">
+	<div class="content"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h1>Победители и призеры</h1>
+<p><strong>2022 - 2023 год</strong></p>
+<p><strong>Отборочный тур:</strong></p>
+<p><a href="/content/public/uploads/files/rosatom/2023/otbor_kriterii22-23_2.pdf" id="bxid_829999" rel="noopener noreferrer" target="_blank">Критерии определения призеров отборочного тура олимпиады РОСАТОМ по физике и математике 2022-2023 учебного года</a></p>
+<p><strong>2021 - 2022 год</strong></p>
+<p><strong>Заключительный тур:</strong></p>
+<p><a href="/content/public/uploads/files/rosatom/2022/kriterii_fizika_2022.pdf" id="bxid_829999" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по физике 2021-2022 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_phys_2022" id="bxid_547461">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по физике 2021-2022 учебного года</a></p>
+<p><a href="/content/public/uploads/files/rosatom/2022/_kriterii_matematika_2022.pdf" id="bxid_403835" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по математике 2021-2022 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_math_2022" id="bxid_654485">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по математике 2021-2022 учебного года</a></p>
+<p><strong>Отборочный тур:</strong></p>
+<p><a href="/content/public/uploads/files/rosatom/kriterii21-22.pdf" id="bxid_829999" rel="noopener noreferrer" target="_blank">Критерии определения призеров отборочного тура олимпиады РОСАТОМ по физике и математике 2021-2022 учебного года</a></p>
+<p><strong>2020 - 2021 год</strong></p>
+<p><a href="/content/public/uploads/files/rosatom/2021/kriterii_fizika_2021.pdf" id="bxid_829999" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по физике 2020-2021 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_phys_2021" id="bxid_547461">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по физике 2020-2021 учебного года</a></p>
+<p><a href="/content/public/uploads/files/rosatom/2021/kriterii_matematika_2021.pdf" id="bxid_403835" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по математике 2020-2021 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_math_2021" id="bxid_654485">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по математике 2020-2021 учебного года</a></p>
+<p><a href="/content/public/uploads/files/rosatom/_kriterii20-21.pdf" id="bxid_829999" rel="noopener noreferrer" target="_blank">Критерии определения призеров отборочного тура олимпиады РОСАТОМ по физике и математике 2020-2021 учебного года</a></p>
+<p><strong>2019 - 2020 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/2019-2020/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0_2020.pdf" id="bxid_829999" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по физике 2019-2020 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_phys_2020" id="bxid_547461">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по физике 2019-2020 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/2019-2020/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0_2020.pdf" id="bxid_403835" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по математике 2019-2020 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_math_2020" id="bxid_654485">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по математике 2019-2020 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/2019-2020/Kriterii_otbor_2020.pdf" id="bxid_829999" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров отборочного тура олимпиады РОСАТОМ по физике и математике 2019-2020 учебного года</a></p>
+<p><strong>2018 - 2019 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/2018-2019/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8%20%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0%202019.pdf" id="bxid_829999" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по физике 2018-2019 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_phys_2019" id="bxid_547461" rel="noopener noreferrer" target="_blank">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по физике 2018-2019 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/2018-2019/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%202019.pdf" id="bxid_403835" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по математике 2018-2019 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_math_2019" id="bxid_695589" rel="noopener noreferrer" target="_blank">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по математике 2018-2019 учебного года</a></p>
+<hr />
+<p><strong>2017 - 2018 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/2017-2018/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8%20%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0%202018.pdf" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по физике 2017-2018 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_phys_2018" rel="noopener noreferrer" target="_blank">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по физике 2017-2018 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/2017-2018/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%202018.pdf" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ по математике 2017-2018 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_math_2018" rel="noopener noreferrer" target="_blank">Списки  и скан-копии работ победителей и призеров олимпиады РОСАТОМ по математике 2017-2018 учебного года</a></p>
+<hr />
+<p><strong>2016 - 2017 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/Pobediteli/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8.pdf" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ 2016-2017 &amp;nbsp;учебного года&amp;nbsp;</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_phys_2017" rel="noopener noreferrer" target="_blank">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по физике 2016-2017 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_math_2017" rel="noopener noreferrer" target="_blank">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по математике 2016-2017 учебного года</a></p>
+<hr />
+<p><strong>2015 - 2016 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/kriterii_rosatom.pdf" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ 2015-2016 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_phys_2016" rel="noopener noreferrer" target="_blank">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по физике 2015-2016 учебного года</a></p>
+<p><a href="https://olymp.mephi.ru/rosatom/winners/scan_math_2016" rel="noopener noreferrer" target="_blank">Списки и скан-копии работ победителей и призеров олимпиады РОСАТОМ по математике 2015-2016 учебного года</a></p>
+<hr />
+<p><strong>2014 - 2015 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/kriterii.php" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ 2014-2015 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/Pobediteli/pobediteli-fizika-14.php" rel="noopener noreferrer" target="_blank">Списки победителей и призеров олимпиады РОСАТОМ по физике 2014-2015 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/Pobediteli/pobediteli-i-prizery.php" rel="noopener noreferrer" target="_blank">Списки победителей и призеров олимпиады РОСАТОМ по математике 2014-2015 учебного года</a></p>
+<hr />
+<p><strong>2013 - 2014 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/Pobediteli/kriterii.pdf" rel="noopener noreferrer" target="_blank">Критерии определения победителей и призеров олимпиады РОСАТОМ 2013-2014 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/Pobediteli/pob_priz_phys_2014_7-11.pdf" rel="noopener noreferrer" target="_blank">Списки победителей и призеров олимпиады РОСАТОМ по физике 2013-2014 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/Pobediteli/pob_priz_math_2014_7-11.pdf" rel="noopener noreferrer" target="_blank">Списки победителей и призеров олимпиады РОСАТОМ по математике 2013-2014 учебного года</a></p>
+<hr />
+<p><strong>2012 - 2013 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/Pobediteli/Pob_priz_phys.pdf" rel="noopener noreferrer" target="_blank">Списки победителей и призеров олимпиады РОСАТОМ по физике 2012-2013 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/Pobediteli/pob_priz_math.pdf" rel="noopener noreferrer" target="_blank">Списки победителей и призеров олимпиады РОСАТОМ по математике 2012-2013 учебного года</a></p>
+<hr />
+<p><strong>2011 - 2012 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/rosatom/Pobediteli/pob_priz_math_phys_11-12.pdf" rel="noopener noreferrer" target="_blank">Списки победителей и призеров олимпиады РОСАТОМ 2011-2012 учебного года</a></p>
+<hr />
+<p><strong>2010 - 2011 год</strong></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/res_mat_2011.pdf" rel="noopener noreferrer" target="_blank">Списки победителей и призеров олимпиады РОСАТОМ по математике 2010-2011 учебного года</a></p>
+<p><a href="https://mephi.ru/content/public/uploads/files/entrants/imported/events/olimpiads/res_fis_2011.pdf" rel="noopener noreferrer" target="_blank">Список победителей и призеров олимпиады РОСАТОМ по физике 2010-2011 учебного года</a></p>
+</div></div></div></div>
+</div>
+
+  </div>
+</div>
+  </div>
+			</div>			
+		</div>
+	</div>
+			<div id="r1a">  <div class="region region-row-1-after">
+    <div id="block-block-7" class="block block-block">
+
+    
+  <div class="content">
+    <!--
+<div class="item callcenter">
+<div class="title">Контактные телефоны:</div>
+<div class="phone">+7&nbsp;800&nbsp;775-15-51 (по&nbsp;России)</div>
+<div class="phone">+7&nbsp;495&nbsp;785-55-25 (по&nbsp;Москве)</div>
+</div>
+-->
+
+<div class="item email">
+<div class="title">Электронная почта:</div>
+<div class="mailto"><a href="mailto:olympiad@mephi.ru">olympiad@mephi.ru</a></div>
+</div>
+
+<div class="item social">
+<a href="https://vk.com/mephi_official" class="vk ext" title="VKontakte" target="_blank"></a>
+<!--<a href="https://ru-ru.facebook.com/official.MEPhI/" class="fb ext" title="Facebook" target="_blank"></a>-->
+<a href="https://ok.ru/mephi" class="ok ext" title="Odnoklassniki" target="_blank"></a>
+<!--<a href="https://twitter.com/nrnumephi" class="tw" title="Twitter"></a>-->
+<!--<a href="https://instagram.com/mephi_official/" class="in ext" title="Instagram" target="_blank"></a>-->
+<a href="https://www.youtube.com/user/NRNUMEPhI" class="yt ext" title="YouTube" target="_blank"></a>
+<a href="https://t.me/olymp_mephi" class="tm ext" title="Telegram" target="_blank"></a>
+</div>
+
+<div id="special">
+	<div class="icon">
+		&nbsp;</div>
+	<div class="default">
+		Версия&nbsp;сайта для&nbsp;слабовидящих</div>
+	<div class="revert">
+		Вернуться&nbsp;к&nbsp;обычной версии&nbsp;сайта</div>
+</div>  </div>
+</div>
+  </div>
+</div>
+				<div id="footer">
+			</div>
+</div>  <script type="text/javascript" src="https://olymp.mephi.ru/modules/statistics/statistics.js?rko0ei"></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+ 
+   ym(61848547, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/61848547" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

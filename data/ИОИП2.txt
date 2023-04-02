@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=windows-1251">
+        <title>Олимпиады по информатике. Санкт-Петербург, Россия</title>
+        <link rel="shortcut icon" href="../favicon.ico">
+        <link rel="stylesheet" class="text/css" href="../main.css">
+    </head>
+    <body>
+        <table class="wrapper">
+            <tr>
+                <td><a id="top"></a></td>
+            </tr>
+            <tr>
+                <td class="c" colspan="5"><img src="../img/top.gif" width="800" height="97" alt="Олимпиады по информатике. Санкт-Петербург, Россия"></td>
+            </tr>
+            <tr>
+                <td colspan="5" class="menutop"><a class="menutop" href="../information/index.html">Информация</a><img src="../img/p.gif" width="12" height="1" alt=""><a class="menutop" href="../russia-team/index.html">ВКОШП</a><img src="../img/p.gif" width="12" height="1" alt=""><a class="menutop" href="../spb/index.html">Олимпиады в СПб</a><img src="../img/p.gif" width="12" height="1" alt=""><a class="menutop" href="../archive/index.html">Архив олимпиад</a><img src="../img/p.gif" width="12" height="1" alt=""><a class="menutop" href="../io/index.html">Интернет-олимпиады</a><img src="../img/p.gif" width="12" height="1" alt=""><a class="menutop" href="../ioip/index.html">ИОИП</a></td>
+            </tr>
+            <tr>
+                <td class="borderlinev" width="1"><img alt="" height="1" width="1" src="../img/p.gif"></td><td width="25%" valign="top" class="menuleft">
+                    <div class="menuleftcap">ИОИП</div>
+                    <table class="menuleft">
+                        <tr>
+                            <td class="menuleftbullet"><img alt="*" height="10" width="10" src="../img/d1.gif"></td><td class="menuleft"><a class="menuleft" href="../ioip/index.html">Главная</a></td>
+                        </tr>
+                        <tr>
+                            <td class="menuleftbullet"><img alt="*" height="10" width="10" src="../img/d1.gif"></td><td class="menuleft"><a class="menuleft" href="../ioip/rules.html">Правила олимпиады</a></td>
+                        </tr>
+                        <tr>
+                            <td class="menuleftbullet"><img alt="*" height="10" width="10" src="../img/d1.gif"></td><td class="menuleft"><a class="menuleft" href="../ioip/regulations.html">Правила заключительного этапа</a></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" class="separator"></td>
+                        </tr>
+                        <tr>
+                            <td class="menuleftbullet"><img alt="*" height="10" width="10" src="../img/d1.gif"></td><td class="menuleft"><a class="menuleft" href="../ioip/contacts.html">Места проведения и контакты</a></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" class="separator"></td>
+                        </tr>
+                        <tr>
+                            <td class="menuleftbullet"><img alt="*" height="10" width="10" src="../img/d1.gif"></td><td class="menuleft"><a class="menuleft" href="finalReg.jsp">Заявка на заключительный этап</a></td>
+                        </tr>
+                        <tr>
+                            <td class="menuleftbullet"><img alt="*" height="10" width="10" src="../img/d1.gif"></td><td class="menuleft"><a class="menuleft" href="listFinal.jsp">Участники заключительного этапа</a></td>
+                        </tr>
+                    </table>
+                </td><td class="borderlinev" width="1"><img alt="" height="1" width="1" src="../img/p.gif"></td><td width="75%" height="100%">
+                    <table class="maintext" width="100%" height="100%">
+                        <tr>
+                            <td class="maintext">
+                                <h1>Индивидуальная олимпиада школьников по информатике и программированию</h1>
+                                <h2>Общая информация</h2>
+                                <p>
+                                            Добро пожаловать на сайт индивидуальной олимпиады школьников по информатике
+        и программированию. Индивидуальная олимпиада школьников по информатике и программированию
+        (ИОИП) является личным зачетом "Олимпиады школьников по информатике и программированию",
+        которая входит в <a href="http://rsr-olymp.ru/">перечень олимпиад</a> Российского
+        совета олимпиад школьников и имеет 1 уровень. Таким образом, диплом
+        этой олимпиады может давать льготы при поступлении в вуз.
+    
+                                </p>
+                                <h2>Заключительный этап</h2>
+                                <p>
+                                        Заключительный этап ИОИП состоится <b>26 марта 2023 года</b>. 
+    Опубликован <a href="regulations.html">регламент проведения заключительного этапа</a>.
+
+                                </p>
+                                <p>
+                                    <a href="standings-2023.html">Предварительные результаты</a>.
+
+                                </p>
+                                <h2>История олимпиады</h2>
+                                <p>
+                                    <a href="standings-2022.html">Результаты 2022 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2021.html">Результаты 2021 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2020.html">Результаты 2020 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2019.html">Результаты 2019 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2018.html">Результаты 2018 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2017.html">Результаты 2017 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2016.html">Результаты 2016 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2015.html">Результаты 2015 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2014.html">Результаты 2014 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2013.html">Результаты 2013 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2012.html">Результаты 2012 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2011.html">Результаты 2011 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2010.html">Результаты 2010 года</a>
+                                </p>
+                                <p>
+                                    <a href="standings-2009.html">Результаты 2009 года</a>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                        </tr>
+                    </table>
+                </td><td class="borderlinev" width="1"><img alt="" height="1" width="1" src="../img/p.gif"></td>
+            </tr>
+        </table>
+    </body>
+</html>
